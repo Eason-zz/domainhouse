@@ -47,19 +47,19 @@ domainhouse.exe -f target.txt > result.txt
 win
 
 ~~~
-https://github.com/login546/domainhouse/releases/download/untagged-bac38184b008cd8e3b55/domainhouse-win.exe
+https://github.com/login546/domainhouse/releases/download/v0.1/domainhouse-win.exe
 ~~~
 
 mac
 
 ~~~
-https://github.com/login546/domainhouse/releases/download/untagged-bac38184b008cd8e3b55/domainhouse-mac
+https://github.com/login546/domainhouse/releases/download/v0.1/domainhouse-mac
 ~~~
 
 linux
 
 ~~~
-https://github.com/login546/domainhouse/releases/download/untagged-bac38184b008cd8e3b55/domainhouse-linux
+https://github.com/login546/domainhouse/releases/download/v0.1/domainhouse-linux
 ~~~
 
 或自行编译

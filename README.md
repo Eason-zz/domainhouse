@@ -1,6 +1,8 @@
 ## 接口
 
-用来自https://domainhouse.buzz/ui/的子域名查询接口写了个小工具
+用来自https://domainhouse.buzz/ui/
+
+子域名查询接口写了个小工具
 
 ```
 https://domainhouse.buzz/query.php?token=9378409013576a0cb7c6fac863d5dfe03f0d288a&domain=
@@ -39,3 +41,25 @@ domainhouse.exe -f target.txt
 domainhouse.exe -d baidu.com > result.txt
 domainhouse.exe -f target.txt > result.txt
 ~~~
+
+## 下载
+
+win
+
+~~~
+https://github.com/login546/domainhouse/releases/download/untagged-bac38184b008cd8e3b55/domainhouse-win.exe
+~~~
+
+mac
+
+~~~
+https://github.com/login546/domainhouse/releases/download/untagged-bac38184b008cd8e3b55/domainhouse-mac
+~~~
+
+linux
+
+~~~
+https://github.com/login546/domainhouse/releases/download/untagged-bac38184b008cd8e3b55/domainhouse-linux
+~~~
+
+或自行编译

@@ -34,7 +34,7 @@ func main() {
 }
 
 func QueryDomain() {
-	res, err := http.Get("https://domainhouse.buzz/query.php?token=9378409013576a0cb7c6fac863d5dfe03f0d288a&domain=" + *SearchDomain)
+	res, err := http.Get("https://domainhouse.buzz/query.php?token=b1faa8d24017ce4a568160804a1bd8af527401d5&domain=" + *SearchDomain)
 	if err != nil {
 		return
 	}
